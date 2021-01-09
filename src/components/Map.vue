@@ -4,7 +4,7 @@
     <div class="content">
       <!-- Google Mapから位置情報追加 -->
       <form id="search-form" @submit.prevent>
-        <h2 class="title">Google Mapから位置情報追加</h2>
+        <h2 class="title">Google Mapから位置情報追加する</h2>
         <input
           id="inputAddress"
           type="textbox"
